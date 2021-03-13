@@ -1,8 +1,10 @@
 import { getRandomInt } from './utils.js';
+
 const QUESTIONS = [
   'Вас устраивает ваша зарплата?',
-  'Вы любите своих родителей?',
+  'Вы не любите своих родителей?',
   'Вы относитесь к ЛГБТ+ сообществу?',
+  'JavaScript - лучший язык программирования?',
 ];
 
 export default function getQuestion() {
