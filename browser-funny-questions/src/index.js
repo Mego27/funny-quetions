@@ -1,4 +1,4 @@
-// import './styles/style.css';
+import './styles/style.css';
 import removeButton from './scripts/removeButton.js';
 import getQuestion from './scripts/getQuestion.js';
 import changeQuestion from './scripts/changeQuestion.js';
