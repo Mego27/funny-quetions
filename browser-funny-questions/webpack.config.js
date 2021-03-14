@@ -13,6 +13,7 @@ module.exports = {
       title: 'Funny questions',
       filename: './index.html',
       template: './src/template.html',
+      inlineSource: '.(js|css)$',
     }),
   ],
   module: {
